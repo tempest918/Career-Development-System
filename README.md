@@ -1,6 +1,6 @@
-# The-Blue-Team Project
+# Career Development System Project
 
-The Blue Team Project is a collaborative Django web application that empowers users to search for courses and derive skill sets from course descriptions. The app consists of several modules, each serving a specific purpose: `course_entry`, `ClassTracker`, `JobSearch`, `ResumeBuilder`, and `UserInfo`.
+The Career Development System Project is a collaborative Django web application that empowers users to search for courses and derive skill sets from course descriptions. The app consists of several modules, each serving a specific purpose: `course_entry`, `ClassTracker`, `JobSearch`, `ResumeBuilder`, and `UserInfo`.
 
 ## Installation
 
@@ -8,12 +8,12 @@ To set up and run the project, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Rpeglow/The-Blue-Team.git
+    git clone https://github.com/tempest918/Career-Development-System.git
     ```
 
 2. Navigate to the project directory:
     ```
-    cd The-Blue-Team
+    cd Career-Development-System
     ```
 
 3. Install the required dependencies:
